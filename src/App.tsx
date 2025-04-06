@@ -1,6 +1,6 @@
 // src/App.tsx
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
 import ChatBox from './components/ChatBox';
 import CmsInterface from './components/CmsInterface';
