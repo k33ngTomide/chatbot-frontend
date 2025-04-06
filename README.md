@@ -53,3 +53,11 @@ export default tseslint.config({
 })
 ```
 # chatbot-frontend
+
+1. Clone the repository:
+  git clone <repository-url>
+  cd chatbot-frontend
+2. Install dependencies:
+  npm install
+3. Start the frontend server:
+  npm run dev
